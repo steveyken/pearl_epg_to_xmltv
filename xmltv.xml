@@ -1,0 +1,235 @@
+<tv generator-info-name="pearl_epg_to_xmltv">
+  <channel id="pearl.tvb.com">
+    <display-name lang="en">Pearl</display-name>
+    <display-name lang="zh_TW"></display-name>
+  </channel>
+
+<programme start="201408160600 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 金融概要  Market Overview  </title>
+  <title lang="zh_TW"> 金融概要  Market Overview  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160730 +0800" channel="pearl.tvb.com">
+  <title lang="en"> NBC 世界新聞  NBC Nightly News  </title>
+  <title lang="zh_TW"> NBC 世界新聞  NBC Nightly News  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160800 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 普通話娛樂新聞報道  Putonghua E-News  </title>
+  <title lang="zh_TW"> 普通話娛樂新聞報道  Putonghua E-News  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160830 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 癌變解碼[港台]  Cancer Series[RTHK]</title>
+  <title lang="zh_TW"> 癌變解碼[港台]  Cancer Series[RTHK]</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160855 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 正義少俠之地球保衛戰 (II)  Young Justice Invasion (II)  </title>
+  <title lang="zh_TW"> 正義少俠之地球保衛戰 (II)  Young Justice Invasion (II)  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160925 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 湖上小天地  The Adventures of Abney &amp; Teal  </title>
+  <title lang="zh_TW"> 湖上小天地  The Adventures of Abney &amp; Teal  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160950 +0800" channel="pearl.tvb.com">
+  <title lang="en"> TVB8金曲榜 [普]  Mandarin MOD Top 10 [PTH]  </title>
+  <title lang="zh_TW"> TVB8金曲榜 [普]  Mandarin MOD Top 10 [PTH]  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408161040 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 終極蜘蛛俠  Marvel Ultimate Spider-man    </title>
+  <title lang="zh_TW"> 終極蜘蛛俠  Marvel Ultimate Spider-man    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408161110 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 港生活．港享受  Dolce Vita      </title>
+  <title lang="zh_TW"> 港生活．港享受  Dolce Vita      </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408161135 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 明珠檔案  The Pearl Report      </title>
+  <title lang="zh_TW"> 明珠檔案  The Pearl Report      </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408161200 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 寰宇體壇  Transworld Sport  </title>
+  <title lang="zh_TW"> 寰宇體壇  Transworld Sport  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160100 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 做個小廚神 (II)  Junior MasterChef Australia (II)    </title>
+  <title lang="zh_TW"> 做個小廚神 (II)  Junior MasterChef Australia (II)    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160150 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 音樂熱點  Power Tracks</title>
+  <title lang="zh_TW"> 音樂熱點  Power Tracks</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160200 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 北歐藝術遊  The High Art of the Low Countries    </title>
+  <title lang="zh_TW"> 北歐藝術遊  The High Art of the Low Countries    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160300 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 超級狗模大賽  Top Dog Model        </title>
+  <title lang="zh_TW"> 超級狗模大賽  Top Dog Model        </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160350 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 音樂熱點  Power Tracks</title>
+  <title lang="zh_TW"> 音樂熱點  Power Tracks</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160400 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 睡衣寶寶  Pajanimals  </title>
+  <title lang="zh_TW"> 睡衣寶寶  Pajanimals  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160430 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 繽紛小樂園 (IV)  Show Me Show Me (IV)  </title>
+  <title lang="zh_TW"> 繽紛小樂園 (IV)  Show Me Show Me (IV)  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160455 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 天才孖寶  Absolute Genius with Dick &amp; Dom    </title>
+  <title lang="zh_TW"> 天才孖寶  Absolute Genius with Dick &amp; Dom    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160530 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 我的志願101  Real Life 101    </title>
+  <title lang="zh_TW"> 我的志願101  Real Life 101    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160600 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 普通話新聞  Putonghua News      and  普通話天氣報告  Putonghua Weather Report  </title>
+  <title lang="zh_TW"> 普通話新聞  Putonghua News      and  普通話天氣報告  Putonghua Weather Report  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160615 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 音樂熱點  Power Tracks</title>
+  <title lang="zh_TW"> 音樂熱點  Power Tracks</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160630 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 六十分鐘時事雜誌  60 Minutes      </title>
+  <title lang="zh_TW"> 六十分鐘時事雜誌  60 Minutes      </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160720 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 警訊 [港台]  Police Report [RTHK]</title>
+  <title lang="zh_TW"> 警訊 [港台]  Police Report [RTHK]</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160730 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 七點半新聞報道  News At Seven-Thirty    </title>
+  <title lang="zh_TW"> 七點半新聞報道  News At Seven-Thirty    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160755 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 永明金融特約:天氣報告  Sun Life Financial Presents:Weather Report      and  太子珠寶鐘錶特約:瞬間看地球  Prince Jewellery &amp; Watch Presents:Earth Live  </title>
+  <title lang="zh_TW"> 永明金融特約:天氣報告  Sun Life Financial Presents:Weather Report      and  太子珠寶鐘錶特約:瞬間看地球  Prince Jewellery &amp; Watch Presents:Earth Live  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160800 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 全英一叮 (VIII)  Britain's Got Talent (VIII)      </title>
+  <title lang="zh_TW"> 全英一叮 (VIII)  Britain's Got Talent (VIII)      </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160900 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 超級無敵羊咩咩 (III)  Shaun the Sheep (III)  </title>
+  <title lang="zh_TW"> 超級無敵羊咩咩 (III)  Shaun the Sheep (III)  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408160930 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 周末大電影:大白鯊續集  Weekend Blockbuster:Jaws 2          </title>
+  <title lang="zh_TW"> 周末大電影:大白鯊續集  Weekend Blockbuster:Jaws 2          </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408171200 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 晚間新聞  News Roundup    </title>
+  <title lang="zh_TW"> 晚間新聞  News Roundup    </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408171215 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 太子珠寶鐘錶特約:瞬間看地球  Prince Jewellery &amp; Watch Presents:Earth Live  </title>
+  <title lang="zh_TW"> 太子珠寶鐘錶特約:瞬間看地球  Prince Jewellery &amp; Watch Presents:Earth Live  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408171220 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 午後影院:出獄威龍  Late Late Show:Crazy on the Outside      </title>
+  <title lang="zh_TW"> 午後影院:出獄威龍  Late Late Show:Crazy on the Outside      </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408170215 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 全英一叮 (VIII)  Britain's Got Talent (VIII)      </title>
+  <title lang="zh_TW"> 全英一叮 (VIII)  Britain's Got Talent (VIII)      </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408170305 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 超級無敵羊咩咩 (III)  Shaun the Sheep (III)  </title>
+  <title lang="zh_TW"> 超級無敵羊咩咩 (III)  Shaun the Sheep (III)  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408170330 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 寰宇體壇  Transworld Sport  </title>
+  <title lang="zh_TW"> 寰宇體壇  Transworld Sport  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408170425 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 歐陸名畫樂悠揚  Museum Masters &amp; Composers  </title>
+  <title lang="zh_TW"> 歐陸名畫樂悠揚  Museum Masters &amp; Composers  </title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408170500 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 台灣無綫衛星電視台新聞  TVBS NEWS</title>
+  <title lang="zh_TW"> 台灣無綫衛星電視台新聞  TVBS NEWS</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+<programme start="201408170530 +0800" channel="pearl.tvb.com">
+  <title lang="en"> 中國新聞  CCTV NEWS</title>
+  <title lang="zh_TW"> 中國新聞  CCTV NEWS</title>
+  <desc lang="en">Description</desc>
+</programme>
+
+</tv>
